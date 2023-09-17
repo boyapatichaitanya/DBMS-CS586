@@ -1,5 +1,7 @@
-# DBMS-CS586
-This project was developed as part of CS 586 under the guidance of professor Sascha Strand. 
+# CS-586-Database-Managment-Systems
 
-Chaitanya Boyapati
+This project was developed for the course CS 586 Database Managment Systems at PSU. It was developed under the guidance of professor "Sascha Strand".
 
+## Team Members
+1.  Chaitanya Boyapati - boyapati@pdx.edu
+2.  Faiyazthulla Shaik - faiyaz@pdx.edu
